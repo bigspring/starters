@@ -2,9 +2,6 @@
 
 
 	<content>
-	
-		<h1>Badger Baiters UK</h1>
-	
 	</content>
 
 	
